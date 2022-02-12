@@ -1,6 +1,3 @@
-927 Bytes
-   
-// mostly code from reactjs.org/docs/error-boundaries.html
 import { Component } from "react";
 import { Link, Redirect } from "react-router-dom";
 
